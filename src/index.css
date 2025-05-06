@@ -1,0 +1,34 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', 'Poppins', 'Inter', sans-serif; /* Use specified fonts */
+  line-height: 1.6;
+  background-color: #ffffff; /* White background */
+  color: #000000; /* Black text */
+}
+
+a {
+  color: #5C9EFF; /* Blue Serenity for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font-family: inherit;
+}
+
+main {
+  max-width: 1200px; /* Limit main content width */
+  margin: 0 auto; /* Center main content */
+  padding: 1rem;
+}
+
+/* Add more global styles or specific styles later */
