@@ -1,6 +1,6 @@
-# siimpla - Frontend
+# siimpla - Frontend 
 
-Este é o projeto frontend para a startup "siimpla", desenvolvido com React.js.
+Este é o projeto frontend para a startup "siimpla", desenvolvido com React.js. Video: https://media-hosting.imagekit.io/4fbdd1f0f1c041a5/VID-20250506-WA0009.mp4?Expires=1841247125&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KGiEuIsAPOWDyp1qGpolEkw2fi5~GcjYAZwGU4xQa0D2GG4auihDw2INBarM0TnEGt8TeZ35~uYC8xAlkHEwwrXwoKPFCjZnhBYD9xwM2y2PiJGuRl51XyPmrcyJpM5BU2ZXrFEbIH4TrPhNCZOmE0FEQHOrI-PkwQO6tjpsd7xgRC6pK1Vzc-oIdVuvRZ-OwPjPXM-d2jQXqy-X8PeusyKBM5hNomVc47aTNUirsfliUTXT78EbF3F6uMJxoi73MqBLJGwGqmSTguAb7fDIMPcuuW8KWOUNVie1HoC~DUYPtqL~Zd7Qp7cw8wrCqbyYx9SOIcdNR-Smxx7DLoobLA__
 
 ## Descrição
 
@@ -65,30 +65,4 @@ O siimpla oferece um conjunto de ferramentas online simples e rápidas para faci
 └── README.md
 ```
 
-## Como Executar o Projeto Localmente
-
-1.  **Clone o repositório (ou descompacte o arquivo .zip).**
-
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd siimpla-frontend
-    ```
-
-3.  **Instale as dependências:**
-    ```bash
-    npm install
-    ```
-
-4.  **Inicie o servidor de desenvolvimento:**
-    ```bash
-    npm start
-    ```
-
-    A aplicação estará disponível em `http://localhost:3000` (ou outra porta, se a 3000 estiver ocupada).
-
-## Observações
-
-*   A autenticação é simulada e utiliza `localStorage` para persistir o token "fake". Não há backend real ou segurança robusta implementada.
-*   O conversor de moedas utiliza uma taxa de câmbio fixa e simulada.
-*   A ferramenta "Removedor de Fundo" é apenas um placeholder.
 
